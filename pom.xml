@@ -2,7 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.siddu.project</groupId>
   <artifactId>MavenProject</artifactId>  
-  <version>v3.1</version>
+  <version>v4.0</version>
   <dependencies>
 	  <!-- https://mvnrepository.com/artifact/junit/junit -->
 	<dependency>
