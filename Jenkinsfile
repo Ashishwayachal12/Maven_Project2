@@ -1,6 +1,5 @@
 pipeline {
 	    agent {label "kali"}
-	
 	    stages {
 	
 	        stage('Hello') {
