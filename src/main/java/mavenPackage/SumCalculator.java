@@ -21,7 +21,7 @@ public class SumCalculator {
         for (String line : pattern) {
             System.out.println(line);
         }
-        System.out.println("Hello devops");
+        // System.out.println("Hello devops");
     }
 }
 
