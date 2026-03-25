@@ -29,7 +29,6 @@ pipeline {
                      java -jar app.jar'''
 	            }
 	        }
-	
 	        stage('Clean workspace') {
 	            steps {
 	                cleanWs()
