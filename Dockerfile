@@ -1,4 +1,4 @@
-FROM maven:
+FROM maven
 WORKDIR /build
 RUN mvn package
 RUN mv target/*.jar app.jar
